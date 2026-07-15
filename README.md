@@ -39,4 +39,4 @@ Save the trained model and vectorizer using Pickle
 Deploy using Streamlit
 
 Author : Mahtaab Aalam
-GitHub: https://github.com/mahtaab162
+GitHub: [https://github.com/mahtaab162](http://localhost:8501)
